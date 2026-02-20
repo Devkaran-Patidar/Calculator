@@ -63,9 +63,3 @@ calculator-app/
 ## **License**
 
 This project is open-source and free to use.
-
----
-
-If you want, I can also **enhance this README with badges** (like `HTML`, `CSS`, `JS`, and GitHub stars) and a **live demo link** to make it look professional on GitHub.
-
-Do you want me to do that next?
