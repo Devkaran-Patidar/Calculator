@@ -22,9 +22,9 @@ A **responsive web-based calculator** with a history panel that allows users to 
 * Smooth button animations and modern UI.
 
 ## **Demo Screenshot**
-![Alt text](image/calculator.png)
+![Alt text](images/calculator.png)
 --
-![Alt text](image/history.png)
+![Alt text](images/history.png)
 
 
 ## **Technologies Used**
