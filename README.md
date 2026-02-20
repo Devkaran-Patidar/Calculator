@@ -23,6 +23,7 @@ A **responsive web-based calculator** with a history panel that allows users to 
 
 ## **Demo Screenshot**
 ![Alt text](image/calculator.png)
+--
 ![Alt text](image/history.png)
 
 
