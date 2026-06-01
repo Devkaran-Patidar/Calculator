@@ -33,7 +33,7 @@ A **responsive web-based calculator** that performs basic arithmetic and special
 
 <div align="center">
   <img src="images/calculator.png" alt="Calculator UI" width="300" style="margin: 10px;" />
-  <img src="images/history.png" alt="History Panel" width="300" style="margin: 10px;" />
+  <!-- <img src="images/history.png" alt="History Panel" width="300" style="margin: 10px;" /> -->
 </div>
 
 ---
